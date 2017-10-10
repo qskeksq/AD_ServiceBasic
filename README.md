@@ -112,3 +112,5 @@ Notification noti = builder
 NotificationManager manager = (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
 manager.notify(FLAG, noti);
 ```
+
+http://android-kr.tistory.com/281 참고
